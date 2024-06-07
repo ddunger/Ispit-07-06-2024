@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model.csproj", "{D3CA55F2-1094-44AE-92D6-774B721BE33D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ispit.Model", "Ispit.Model.csproj", "{D3CA55F2-1094-44AE-92D6-774B721BE33D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konzola", "Konzola\Konzola.csproj", "{BC28FD8E-E938-425C-9A53-EC1DFE47BD7B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ispit.Konzola", "Konzola\Ispit.Konzola.csproj", "{BC28FD8E-E938-425C-9A53-EC1DFE47BD7B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

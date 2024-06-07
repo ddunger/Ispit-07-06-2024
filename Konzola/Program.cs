@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Model;
 
-namespace Konzola
+namespace Ispit.Konzola
 {
 	internal class Program
 	{

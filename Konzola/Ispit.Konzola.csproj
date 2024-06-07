@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Model.csproj">
+    <ProjectReference Include="..\Ispit.Model.csproj">
       <Project>{d3ca55f2-1094-44ae-92d6-774b721be33d}</Project>
-      <Name>Model</Name>
+      <Name>Ispit.Model</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Model
+namespace Ispit.Model
 
 
 {
@@ -26,7 +26,7 @@ namespace Model
 			DateTime today = DateTime.Now;
 			int years = today.Year - DatumRodjenja.Year;
 
-			if (DatumRodjenja.Month > today.Month)
+			if (DatumRodjenja.Month < today.Month)
 			{
 				years--;
 			}
